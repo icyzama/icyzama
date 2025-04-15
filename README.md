@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Zama</h1>
 <h3 align="center">I'm passionate about innovation and research, with a strong interest in the technology field. I am fond of refining my skills and experience — constantly seeking opportunities to grow and expand my knowledge to exceed my capabilities and potentials as a tech enthusiast.</h3>
 
@@ -18,3 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=icyzama&show_icons=true&locale=en&layout=compact" alt="icyzama" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=icyzama&" alt="icyzama" /></p>
+
