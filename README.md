@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zama</h1>
+<h1 align="center">Hello, I'm Rey!</h1>
 <h3 align="center">I'm passionate about innovation and research, with a strong interest in the technology field. I am fond of refining my skills and experience — constantly seeking opportunities to grow and expand my knowledge to exceed my capabilities and potentials as a tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icyzama&label=Profile%20views&color=0e75b6&style=flat" alt="icyzama" /> </p>
